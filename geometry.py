@@ -1,3 +1,4 @@
+# this project RoleA
 import math
 def triangle_area(base, height):
     """Calculates the area of a triangle."""
@@ -6,7 +7,7 @@ def square_area(side):
     """Calculates the area of a square."""
     return side ** 2
 def circle_area(radius): 
-"""Calculates the area of a circle.”””
+"""Calculates the area of a circle 2.”””
  return math.pi * (radius ** 2)
  
 
